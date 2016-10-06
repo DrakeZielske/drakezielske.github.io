@@ -1,9 +1,14 @@
 body {
-    background-color: powderblue;
+    background-color: #F0F8FF;
 }
 h1 {
-    color: blue;
+    color: black;
+	font-family: "Lucida Console";
 }
 p {
-    color: red;
+    color: black;
+	font-family: "Lucida Console";
+	border: 3px solid black;
+	padding: 30px;
+	margin: 20px;
 }
